@@ -1,0 +1,9 @@
+2021-12-02 21:35:02,635 - treble - INFO - Running function: treble
+2021-12-02 21:35:02,635 - treble - INFO - args=(5,), kwargs={}
+2021-12-02 21:35:02,635 - treble - INFO - Result: 15
+2021-12-02 21:36:13,873 - treble - INFO - Running function: treble
+2021-12-02 21:36:13,873 - treble - INFO - args=(5,), kwargs={}
+2021-12-02 21:36:13,873 - treble - INFO - Result: 15
+2021-12-02 21:36:23,951 - treble - INFO - Running function: treble
+2021-12-02 21:36:23,951 - treble - INFO - args=(5,), kwargs={}
+2021-12-02 21:36:23,951 - treble - INFO - Result: 15
